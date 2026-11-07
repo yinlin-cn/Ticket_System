@@ -1,0 +1,300 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="第 1 页" id="AbwLK8b5mZgpHpAhdsqe">
+    <mxGraphModel dx="3860" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i3m4ZN_hviQeOmSwU384-5" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-6" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-7" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="票务系统客户端设计" vertex="1">
+          <mxGeometry height="50" width="120" x="130" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-10" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向服务器发出请求" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-12" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取服务器返回的结果" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-14" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="本地运行的长服务" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="根据服务的需要向服务器发出服务请求" vertex="1">
+          <mxGeometry height="60" width="140" x="510" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="服务器处理请求后将处理的结果返回给客户端" vertex="1">
+          <mxGeometry height="60" width="140" x="510" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="在本地运行的多模块的长任务，用于处理本地产生的事务，一般包容多个业务模块用于切换状态" vertex="1">
+          <mxGeometry height="60" width="220" x="510" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-20" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-21" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-22" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-23" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="客户端基本需求" vertex="1">
+          <mxGeometry height="50" width="120" x="130" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-25" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="浏览商品和票务信息" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-28" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向服务器提交订单" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-30" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查看个人订单记录" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-32" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="提交账号登录请求" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取具体的票务信息" vertex="1">
+          <mxGeometry height="50" width="130" x="520" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取订单处理结果" vertex="1">
+          <mxGeometry height="50" width="130" x="520" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回订单购买记录" vertex="1">
+          <mxGeometry height="50" width="130" x="520" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="返回登录验证结果" vertex="1">
+          <mxGeometry height="45" width="130" x="520" y="752.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-40" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="网络模块" vertex="1">
+          <mxGeometry height="70" width="160" x="350" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="与服务器进行通信" vertex="1">
+          <mxGeometry height="30" width="100" x="460" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="920" as="sourcePoint" />
+            <mxPoint x="410" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.619;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="i3m4ZN_hviQeOmSwU384-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="920" as="sourcePoint" />
+            <mxPoint x="500" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="采用阻塞soket和读写线程实现，一线程用于读取，一线程用于写出" vertex="1">
+          <mxGeometry height="85" width="210" x="590" y="972.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-56" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4xpviugQSVTyA0NY8w--2" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="待返回业务请求列表" vertex="1">
+          <mxGeometry height="60" width="140" x="360" y="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用于检测向服务器发送的请求是否在一定时间内返回处理结果，超时时发出信号" vertex="1">
+          <mxGeometry height="70" width="165" x="347.5" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-49" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-62" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="编译投递模块" vertex="1">
+          <mxGeometry height="61" width="150" x="110" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-57" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-60" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-65" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="结果解析模块" vertex="1">
+          <mxGeometry height="62" width="160" x="620" y="1168" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="1170" as="sourcePoint" />
+            <mxPoint x="310" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-48" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-45" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="1050" as="sourcePoint" />
+            <mxPoint x="560" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="进行请求投递" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="返回请求结果" vertex="1">
+          <mxGeometry height="30" width="60" x="580" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="将请求推入列表" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="将超时任务给予超时信号" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="1229" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="将已返回请求剔除" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="将从服务器返回的信息进行解析，拆解并组装成合适的结构后返回长服务模块" vertex="1">
+          <mxGeometry height="82" width="190" x="850" y="1158" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="将长服务投递的请求进行封装，编译成能符合网络模块要求的字符串" vertex="1">
+          <mxGeometry height="82" width="180" x="-160" y="1158" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-66" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-72" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-102" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4xpviugQSVTyA0NY8w--4" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="c4xpviugQSVTyA0NY8w--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="长任务通用处理模块" vertex="1">
+          <mxGeometry height="80" width="420" x="220" y="1405" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="将结果返回至长任务模块进行处理" vertex="1">
+          <mxGeometry height="50" width="100" x="680" y="1295" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="调用编译投递模块进行请求预处理" vertex="1">
+          <mxGeometry height="40" width="80" x="110" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="长任务处理模块是装载了客户端运行中需要用到的各种模块的集成模块，可通过内部的模块容器进行模块拓展，同时根据应用的具体状态改变当前调用的任务模块类型，使其可以支持多种任务状态下的处理工作，然而在模块设计时需要预留统一的接口用于调用，一般会提供一个虚拟类作为基类提供给各模块用于继承" vertex="1">
+          <mxGeometry height="110" width="340" x="715" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-74" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-210" y="1560" as="sourcePoint" />
+            <mxPoint x="1130" y="1560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;客户端后端设计&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="-140" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-106" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图形化界面" vertex="1">
+          <mxGeometry height="90" width="480" x="190" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-100" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="模块图形化模板库" vertex="1">
+          <mxGeometry height="60" width="180" x="340" y="1679" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用于存储各长服务模块下对应的图形化模板界面用于初始化和更换" vertex="1">
+          <mxGeometry height="56" width="190" x="335" y="1599" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-98" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-113" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图形化界面绘画模块" vertex="1">
+          <mxGeometry height="58" width="300" x="280" y="1762" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-101" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-109" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-116" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="i3m4ZN_hviQeOmSwU384-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图形化界面实时组件集成处理模块" vertex="1">
+          <mxGeometry height="60" width="480" x="190" y="1849" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="客户端后端将处理结果投递给前端用于显示" vertex="1">
+          <mxGeometry height="40" width="140" x="670" y="1699" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="前端将图形化界面中检测到的操作处理后投递给后端进行处理" vertex="1">
+          <mxGeometry height="35" width="120" x="60" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-107" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-108" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="图形化软件内核提供的监测操作和显示画面的功能" vertex="1">
+          <mxGeometry height="60" width="480" x="190" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-110" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用于在运行的任务模块发生变化时读取模板库将对应的新模板调用API同步到图形化界面，同时将对应的图形化组件同步给组件集成模块" vertex="1">
+          <mxGeometry height="60" width="250" x="730" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-111" edge="1" parent="1" source="i3m4ZN_hviQeOmSwU384-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.101;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="i3m4ZN_hviQeOmSwU384-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-112" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="i3m4ZN_hviQeOmSwU384-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="图形化界面是用于提供前端处理的通用核心模块，内置组件列表用于存储当前状态下的模板内的组件，便于对组件进行直接处理和调整，同时当后端任务模块更新时可调用图形化绘画模块进行组件和模板的更新，使其能够通用得满足不同任务模块下的处理和显示要求，同时对各组件的操作进行监测，对特定操作进行处理后上传给后端进行处理" vertex="1">
+          <mxGeometry height="101" width="500" x="730" y="1828.5" as="geometry" />
+        </mxCell>
+        <mxCell id="i3m4ZN_hviQeOmSwU384-117" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;客户端前端设计&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="270" x="-140" y="1619" as="geometry" />
+        </mxCell>
+        <mxCell id="c4xpviugQSVTyA0NY8w--6" edge="1" parent="1" source="c4xpviugQSVTyA0NY8w--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="c4xpviugQSVTyA0NY8w--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c4xpviugQSVTyA0NY8w--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内置共享信息模块" vertex="1">
+          <mxGeometry height="60" width="150" x="355" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="c4xpviugQSVTyA0NY8w--5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用于存储长任务模块中使用到的全局变量及各任务的隔离开存储的变量及信息" vertex="1">
+          <mxGeometry height="60" width="146" x="357" y="1240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

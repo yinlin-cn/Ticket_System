@@ -1,0 +1,638 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="第 1 页" id="LdmcOnahUoKDE8dmctix">
+    <mxGraphModel dx="1733" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-5" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jLtyppFJJ0jf1U0C-Es5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-14" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="jLtyppFJJ0jf1U0C-Es5-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="登录模块" vertex="1">
+          <mxGeometry height="60" width="130" x="434.5" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-20" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-5" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="e1kRY4_udtzTDooJXyZw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="商品浏览模块" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-7" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="e1kRY4_udtzTDooJXyZw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="订单处理模块" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-6" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-7" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-12" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-57" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="连接身份认证模块" vertex="1">
+          <mxGeometry height="60" width="401" x="299" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="完成登录认证之后给予连接身份标识" vertex="1">
+          <mxGeometry height="30" width="120" x="520" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="在执行业务之前首先根据连接进行身份验证信息，防止篡改等问题出现，并在此处为业务加上具体的身份信息" vertex="1">
+          <mxGeometry height="100" width="220" x="760" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-16" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="账号密码库" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="记录下账号、密码、登录错误次数、最后一次登录错误的时间" vertex="1">
+          <mxGeometry height="70" width="140" x="210" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-21" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-37" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8fsIlpo0jtyYOpmNdV-3" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="缓存模块" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-22" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="e1kRY4_udtzTDooJXyZw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-23" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cP8fsIlpo0jtyYOpmNdV-5" edge="1" parent="1" source="jLtyppFJJ0jf1U0C-Es5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="商品数据库" vertex="1">
+          <mxGeometry height="60" width="226" x="414" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jLtyppFJJ0jf1U0C-Es5-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="可接入redis作为缓存模块基础，也可以自己做一个缓存模块，用于存储商品信息、缓存过期时间" vertex="1">
+          <mxGeometry height="90" width="200" x="80" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="对于商品浏览模块采用缓存加查库的办法，将商品浏览任务直接交给线程池进行全权处理而不内置长线程进行操作" vertex="1">
+          <mxGeometry height="80" width="200" x="80" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-10" edge="1" parent="1" source="e1kRY4_udtzTDooJXyZw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e1kRY4_udtzTDooJXyZw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-3" edge="1" parent="1" source="e1kRY4_udtzTDooJXyZw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="e1kRY4_udtzTDooJXyZw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="待处理订单队列集合" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用于存储不同商品的订单队列集合，主要通过哈希队列实现，值的类型为订单队列，用于记录不同商品对应的订单请求" vertex="1">
+          <mxGeometry height="70" width="220" x="710" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-15" edge="1" parent="1" source="e1kRY4_udtzTDooJXyZw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="e1kRY4_udtzTDooJXyZw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-20" edge="1" parent="1" source="e1kRY4_udtzTDooJXyZw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-24" edge="1" parent="1" source="e1kRY4_udtzTDooJXyZw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="jLtyppFJJ0jf1U0C-Es5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-27" edge="1" parent="1" source="e1kRY4_udtzTDooJXyZw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e1kRY4_udtzTDooJXyZw-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="240" />
+              <mxPoint x="670" y="240" />
+              <mxPoint x="670" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-4" edge="1" parent="1" source="e1kRY4_udtzTDooJXyZw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="e1kRY4_udtzTDooJXyZw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="批处理写库模块" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="批处理写库线程是订单处理模块的内置写库线程，线程会遍历订单队列集合，从缓存模块中读取当前商品的额度后从订单队列中取出对应额度的订单进行写库，返回写库结果。" vertex="1">
+          <mxGeometry height="80" width="270" x="710" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="e1kRY4_udtzTDooJXyZw-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="数据库写库后将写库结果进行返回，主要返回内容为写入成功数等，将其返回到缓存模块中更新数据，同时根据返回信息处理订单队列内的订单" vertex="1">
+          <mxGeometry height="70" width="250" x="710" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="缓存模块" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用于存储商品信息的哈希键值对集合及其锁，读无锁写加锁" vertex="1">
+          <mxGeometry height="60" width="140" x="1310" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="记录各商品信息在过去一段时间内的被访问情况的有序队列及其锁，用于缓存空间置换" vertex="1">
+          <mxGeometry height="60" width="140" x="1504" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="缓存最高容纳量" vertex="1">
+          <mxGeometry height="60" width="140" x="1504" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="缓存当前可用量" vertex="1">
+          <mxGeometry height="60" width="140" x="1310" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="缓存模块整体锁，用于防竞态导致的问题" vertex="1">
+          <mxGeometry height="60" width="140" x="1310" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="访问缓存中的键值对集合获取商品信息，存在则返回对应信息，不存在则返回false" vertex="1">
+          <mxGeometry height="65" width="160" x="1310" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1270" y="440" as="sourcePoint" />
+            <mxPoint x="1720" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="向缓存内插入或更新商品信息，可能涉及到替换等问题" vertex="1">
+          <mxGeometry height="70" width="160" x="1310" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="更新缓存最高容纳量，同时更新缓存当前可用量" vertex="1">
+          <mxGeometry height="68.5" width="156" x="1514" y="475.75" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="有序队列排序算法lambda" vertex="1">
+          <mxGeometry height="60" width="146" x="1504" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-29" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向缓存内插入或更新商品信息" vertex="1">
+          <mxGeometry height="60" width="130" x="1753" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-27" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-31" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="判断当前缓存内可用量是否大于零" vertex="1">
+          <mxGeometry height="60" width="130" x="1753" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="直接将内容插入缓存键值对集合中" vertex="1">
+          <mxGeometry height="60" width="120" x="1943" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="1883" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-34" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="访问访问情况有序队列并取出首位商品信息" vertex="1">
+          <mxGeometry height="60" width="130" x="1753" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="1813" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-36" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将首位的商品信息对应的键值对从集合中删除" vertex="1">
+          <mxGeometry height="60" width="130" x="1753" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-38" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将插入的商品信息的访问情况插入有序队列中" vertex="1">
+          <mxGeometry height="60" width="130" x="1753" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-39" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="利用有序排序算法将有序队列中的信息进行更新和排序" vertex="1">
+          <mxGeometry height="60" width="130" x="1938" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="商品浏览模块" vertex="1">
+          <mxGeometry height="60" width="120" x="1150" y="767.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="缓存模块" vertex="1">
+          <mxGeometry height="60" width="120" x="1330" y="717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用于查询商品信息，先在缓存内查找，找不到再去数据库中进行查找" vertex="1">
+          <mxGeometry height="60" width="166" x="1307" y="812.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-46" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查询商品信息接口" vertex="1">
+          <mxGeometry height="60" width="120" x="1753" y="717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-49" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-51" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="调用缓存模块中的获取商品信息函数获取信息" vertex="1">
+          <mxGeometry height="60" width="130" x="1933" y="717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-54" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="调用框架提供的数据库查询函数进行查库" vertex="1">
+          <mxGeometry height="60" width="133" x="2140" y="717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将获取到的商品信息返回给客户" vertex="1">
+          <mxGeometry height="60" width="130" x="1933" y="827.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取成功" vertex="1">
+          <mxGeometry height="30" width="60" x="2003" y="787.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取失败" vertex="1">
+          <mxGeometry height="30" width="60" x="2073" y="717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-55" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="调用缓存模块中的插入商品信息函数插入获取到的商品信息" vertex="1">
+          <mxGeometry height="70" width="143" x="2135" y="822.5" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="连接身份名册模块" vertex="1">
+          <mxGeometry height="60" width="140" x="90" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="订单处理模块" vertex="1">
+          <mxGeometry height="60" width="120" x="2400" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="待处理订单队列集合" vertex="1">
+          <mxGeometry height="60" width="130" x="2571.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="批处理写库模块" vertex="1">
+          <mxGeometry height="60" width="130" x="2571.5" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="票务信息处理返回模块" vertex="1">
+          <mxGeometry height="60" width="130" x="2751.5" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向缓存模块的指针" vertex="1">
+          <mxGeometry height="60" width="130" x="2751.5" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="为特定的商品添加订单，用于向外界提供提交订单的接口" vertex="1">
+          <mxGeometry height="60" width="140" x="2571" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-64" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-58" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2801" y="430" as="sourcePoint" />
+            <mxPoint x="2901" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-67" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="外界调用接口提交订单要求" vertex="1">
+          <mxGeometry height="60" width="120" x="3010.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-69" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将商品订单推入集合内部对应的订单队列中" vertex="1">
+          <mxGeometry height="60" width="137" x="3203.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-71" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="批处理模块定时读取集合内部各个商品的订单队列" vertex="1">
+          <mxGeometry height="60" width="140" x="3400.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-73" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="o321IyXEi12_s9KeG_P5-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="批处理模块根据处理的商品访问缓存获取对应商品的可用额度，若获取失败则使用默认值" vertex="1">
+          <mxGeometry height="60" width="160" x="3390.5" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-75" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="o321IyXEi12_s9KeG_P5-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="根据获取到的可用额度从对应的订单队列中取出对应数量的订单进行写库（注意取出并不代表从队列中删除，订单在此处应该保留）" vertex="1">
+          <mxGeometry height="90" width="200.5" x="3160.25" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将查库得到的结果返回给票务信息处理模块进行处理结果返回" vertex="1">
+          <mxGeometry height="60" width="130" x="2970" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="o321IyXEi12_s9KeG_P5-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="内部专有数据库模块" vertex="1">
+          <mxGeometry height="60" width="130" x="2570.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="批处理写库模块" vertex="1">
+          <mxGeometry height="60" width="120" x="2400" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向待处理订单队列集合的指针" vertex="1">
+          <mxGeometry height="60" width="120" x="2567.88" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="批处理循环线程" vertex="1">
+          <mxGeometry height="60" width="120" x="2568.13" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向内部专有连接池的指针" vertex="1">
+          <mxGeometry height="60" width="120" x="2748.88" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向缓存模块的指针" vertex="1">
+          <mxGeometry height="60" width="130" x="2743.88" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-6" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2675.75" y="850" as="sourcePoint" />
+            <mxPoint x="2915.75" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="默认订单读取数" vertex="1">
+          <mxGeometry height="60" width="120" x="2567.88" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="批处理循环线程，用于定时读取订单队列中的订单用于查库" vertex="1">
+          <mxGeometry height="70" width="155.25" x="2558.88" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-15" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="73FSZKIs6RNnrKU6GTBp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="批处理循环线程触发" vertex="1">
+          <mxGeometry height="60" width="140" x="3000.5" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-17" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="73FSZKIs6RNnrKU6GTBp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="遍历订单队列集合的各个订单队列" vertex="1">
+          <mxGeometry height="60" width="140" x="3205.75" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-19" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="73FSZKIs6RNnrKU6GTBp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="使用遍历的订单队列信息访问缓存模块获取额度" vertex="1">
+          <mxGeometry height="60" width="145" x="3445.75" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-21" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="在当前订单队列中取小于或等于额度数量的订单" vertex="1">
+          <mxGeometry height="60" width="140" x="3448.25" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-22" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="73FSZKIs6RNnrKU6GTBp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将所取得的订单集成成一条语句后投递给内部专有数据库模块，将当前订单队列设为不可访问状态" vertex="1">
+          <mxGeometry height="70" width="170" x="3190.75" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-25" edge="1" parent="1" source="o321IyXEi12_s9KeG_P5-40" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1420" y="827.5" as="sourcePoint" />
+            <mxPoint x="1690" y="798" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内部专有数据库模块" vertex="1">
+          <mxGeometry height="60" width="120" x="3730" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="内部线程池容器" vertex="1">
+          <mxGeometry height="60" width="150" x="3885.75" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="内部连接池容器" vertex="1">
+          <mxGeometry height="60" width="147.87" x="3887.88" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-30" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-26" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3990" y="480" as="sourcePoint" />
+            <mxPoint x="4300" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="内部订单写库任务容器" vertex="1">
+          <mxGeometry height="60" width="150" x="4075.75" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="监测写库任务的条件变量" vertex="1">
+          <mxGeometry height="60" width="150" x="4073.88" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="连接件池内连接数量设置" vertex="1">
+          <mxGeometry height="60" width="150" x="3885.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="线程池内线程数量设置" vertex="1">
+          <mxGeometry height="60" width="152" x="4073.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向票务信息处理返回模块的指针" vertex="1">
+          <mxGeometry height="60" width="150" x="3885.75" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="线程池内部线程循环任务，用于线程池线程循环工作" vertex="1">
+          <mxGeometry height="60" width="150" x="3885.75" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="订单任务投递函数，用于向内部数据库的订单任务容器中投递任务" vertex="1">
+          <mxGeometry height="60" width="190" x="4075.75" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-40" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="线程池内部线程触发" vertex="1">
+          <mxGeometry height="60" width="145" x="4362.37" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-42" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="从写库任务容器中取出任务" vertex="1">
+          <mxGeometry height="60" width="159" x="4568.37" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-44" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向连接池申请连接额度" vertex="1">
+          <mxGeometry height="60" width="155" x="4782.37" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-46" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="73FSZKIs6RNnrKU6GTBp-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="利用得到的连接池连接进行具体的写库操作" vertex="1">
+          <mxGeometry height="60" width="155" x="4782.37" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将写库结果投递给票务信息处理返回模块进行处理" vertex="1">
+          <mxGeometry height="70" width="180" x="4542.37" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="票务信息处理返回模块" vertex="1">
+          <mxGeometry height="60" width="150" x="3722" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-48" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-47" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3910" y="890" as="sourcePoint" />
+            <mxPoint x="4310" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向框架调用层的指针" vertex="1">
+          <mxGeometry height="60" width="172" x="3888" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向连接身份模块的指针" vertex="1">
+          <mxGeometry height="60" width="172" x="3888" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向商品订单队列集合的指针" vertex="1">
+          <mxGeometry height="60" width="169" x="4111" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向缓存模块的指针" vertex="1">
+          <mxGeometry height="60" width="169" x="4111" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="票务信息处理返回任务，用于接收返回的票务信息并进行处理" vertex="1">
+          <mxGeometry height="70" width="174.25" x="3888" y="942.5" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-65" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="票务信息处理返回任务激活" vertex="1">
+          <mxGeometry height="60" width="170" x="4362.37" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-66" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4827.369999999999" y="645.1176470588236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="读取初始化给票务信息返回任务的参数，也就是完成的写库数量以及写库停止原因" vertex="1">
+          <mxGeometry height="70" width="190" x="4595.62" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-67" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="访问商品对应的订单队列并将首部的与完成的写库数量数量相同的订单取出" vertex="1">
+          <mxGeometry height="70" width="180" x="4828.62" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-64" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-77" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="73FSZKIs6RNnrKU6GTBp-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="调用框架调用将订单的写库结果发送给已经完成写库的订单对应的连接" vertex="1">
+          <mxGeometry height="60" width="179" x="4828.62" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-62" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-69" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-72" edge="1" parent="1" source="73FSZKIs6RNnrKU6GTBp-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="73FSZKIs6RNnrKU6GTBp-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4645.37" y="830" />
+              <mxPoint x="4449.37" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="根据参数中返回的停止写库原因判断下一步" vertex="1">
+          <mxGeometry height="60" width="190" x="4597.37" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将订单队列中对应的订单从队列中去除，并将订单队列设置为可访问状态" vertex="1">
+          <mxGeometry height="60" width="190" x="4597.37" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="因订单本身导致的写库错误" vertex="1">
+          <mxGeometry height="30" width="100" x="4697.37" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="向订单队列中剩余订单的所有者连接发送余量不足的信息，将该订单队列从集合中删除" vertex="1">
+          <mxGeometry height="60" width="170" x="4362.37" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="票数余量不足" vertex="1">
+          <mxGeometry height="30" width="60" x="4537.37" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将订单队列设置为可访问状态" vertex="1">
+          <mxGeometry height="55" width="175" x="4362.37" y="845" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="因其他的系统错误导致的停止写库" vertex="1">
+          <mxGeometry height="30" width="190" x="4447.37" y="792.5" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="票务信息处理返回线程" vertex="1">
+          <mxGeometry height="60" width="172" x="3888" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="票务信息处理返回任务容器" vertex="1">
+          <mxGeometry height="60" width="169" x="4111" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="73FSZKIs6RNnrKU6GTBp-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更新缓存模块中的票务信息" vertex="1">
+          <mxGeometry height="60" width="173.38" x="4831.43" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="连接身份名册模块" vertex="1">
+          <mxGeometry height="60" width="120" x="5150" y="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-2" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5350" y="279.5" as="sourcePoint" />
+            <mxPoint x="5590" y="272.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="连接虚拟ID到用户身份映射表" vertex="1">
+          <mxGeometry height="60" width="120" x="5290" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用户身份到连接虚拟ID映射表" vertex="1">
+          <mxGeometry height="60" width="120" x="5450" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="查询用户身份对应的虚拟连接ID" vertex="1">
+          <mxGeometry height="60" width="120" x="5290" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="在映射表中处理连接虚拟ID到用户身份的映射变化" vertex="1">
+          <mxGeometry height="60" width="120" x="5450" y="303" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="框架连接名册监听connectsession" vertex="1">
+          <mxGeometry height="60" width="120" x="5290" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="连接身份名册内部循环线程" vertex="1">
+          <mxGeometry height="60" width="120" x="5450" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-15" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="wBZJXy42GIsNvBqkcLRi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="内部循环线程利用条件变量等待连接信息刷新" vertex="1">
+          <mxGeometry height="60" width="120" x="5630" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-17" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="wBZJXy42GIsNvBqkcLRi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="读取最新连接信息变化中存在已登录用户断连" vertex="1">
+          <mxGeometry height="60" width="120" x="5800" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将对应连接及其用户在连接名册中去除" vertex="1">
+          <mxGeometry height="60" width="120" x="5970" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-20" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="wBZJXy42GIsNvBqkcLRi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="登录模块中连接登录成功" vertex="1">
+          <mxGeometry height="60" width="120" x="5630" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将登录成功的连接及其用户标识记录到连接名册中" vertex="1">
+          <mxGeometry height="60" width="120" x="5800" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="连接身份验证模块" vertex="1">
+          <mxGeometry height="60" width="120" x="5150" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-22" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-21" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5320" y="510" as="sourcePoint" />
+            <mxPoint x="5550" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指向连接身份名册模块的指针" vertex="1">
+          <mxGeometry height="60" width="120" x="5300" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="验证当前连接是否登录并获取登录信息" vertex="1">
+          <mxGeometry height="60" width="120" x="5300" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-30" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wBZJXy42GIsNvBqkcLRi-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户发起任务请求" vertex="1">
+          <mxGeometry height="60" width="120" x="5630" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-31" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="wBZJXy42GIsNvBqkcLRi-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="用户调用框架调用层获取当前的虚拟连接ID" vertex="1">
+          <mxGeometry height="60" width="120" x="5800" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-32" edge="1" parent="1" source="wBZJXy42GIsNvBqkcLRi-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wBZJXy42GIsNvBqkcLRi-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="利用得到的虚拟连接ID查询连接身份名册模块中是否存在该连接对应的登录信息" vertex="1">
+          <mxGeometry height="80" width="170" x="5980" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="wBZJXy42GIsNvBqkcLRi-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="存在则返回对应的登录信息，不存在则驳回请求" vertex="1">
+          <mxGeometry height="60" width="120" x="6005" y="540" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
